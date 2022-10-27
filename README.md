@@ -13,7 +13,7 @@
 
 ## 📚 Bibliotecas utilizadas
 
-<a href = "https://swiperjs.com/">
+<a href = "https://swiperjs.com/" target ="blank">
 <img src="https://img.shields.io/badge/Swiper%20-323330?style=for-the-badge&logo=swiper&logoColor=blue" /></a>
 
 ## ⚙ Tecnologias
