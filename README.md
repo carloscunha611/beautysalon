@@ -4,28 +4,22 @@
 
 > Página desenvolvida no evento online da rocketseat.
 
-## <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAdlJREFUSEuVVe1RBCEMDc5suC6uBLUTS9EKvJKuFO3g7MLlZsQhJJBAmNX9dQe75H0kjwDtCQCQ+Z/+3d8ov2hnte2sl6WDx341weAFfz0QIIblo0vpngNk2BANmJQS0cWIZXt+mKop4FEpBYp0yAUEaSswrBeYpWKtGSB0arwxcE07I10VYAb6nO5lVaUZK5X3/fslhId3AHgaWS38veWc3+IpXke5TAGpnFK6AcDZHL5uLHntAxGflaVVIm2yvCn6LpyzjJuZGTZtuDEZANqhB+Pgb8+rtbsUAzGzwrPNHRFD6wrVISntXoPS15XN0EXkQQBoxZhmxC2Y6eX6o5TSylrauYuoQB0ugUcMpokNMDIwBUYPmizaD5YLcWMgtpU0A5LFHTonKgoDPSwd2X8LyKCx7syK4lJL5GlbcN1TymK+TmLKLjXhJMTfet9OhgY0Rn0F5aWp44GWa5XtpjVVg6iw65+WqAgA52UKt1mWy4e4fCIiZdc4dhMoDrsLADxO8VvQzbn09ZPz6ynGq8pOGatpcE082YulnzzeBzqVTVx3ozRvIxcBXt5ozUyXmb4PbAEpbC8czcDedJ221c81ecz0VRdNGTrJAXxl6pxx8vggwacrRb//CwKKIDLx0uGuAAAAAElFTkSuQmCC"/> Funcionalidades
+## 💻 Funcionalidades
 
 - Menu reativo conforme a pagina
 - Botão voltar pra cima
 - Carrossel
 - Multiplataforma
 
-#
-
-## <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAolJREFUSEuFVktyEzEQ7dYClpATJDlByA3IxuOwAU6A7XGqYnsRcwM4AaYqHlOF7XFuEDb4wyK5Ab4BPkK2hIqakkZjtTTtsjfW9Ej9ef36aRC2PwQACp+sydnDP7tPeC3afYx45TwgkAvNkwgTkp2gTWJPKvyo4HRXzLLi+Eh3OSEDVZa0sVgDjJIUO84+StrYWU0aRHAyStKPUuYBdPzBbO4uJmTqypJUCODsi8kDILxAVKfDWnMdBqn2zEFUbCsrsJnaYAR+XVYzHQDQFRJ+HdZbfYEZzoSAMRMCKAS4bGW/8leg9W8AeMjq6cGWfJUWRQF4BbwHHq6iGtOY7mq8AcJDIno/ql/ceopHdI9JUMAS9oD3w6xNIr3FuA+IX4DwZlhvNXaRltGU94AHqDLKzN7lz/xIKf3HwPPsuToYnDVN420hPpgE0S4WuYYb6EoP3eX4FgjfgqJmVmvPymYHAWIeByxycxBTthSUnpkHDTkgrbOkfRr4kgbN2KQe2EHjFThP/bv85eNfvTEzobU6/nbe3BiAvLQUcHnOAkFBU8f3ClxFP3imveV0RkAfAOBzlqSfKnIW4kXbCrw8VBvOse7Nv7/WSt0hwGaYpMeSXgqTLEgFq4bRpJj+1XiDhIf4pM+u31zcx/IYBJW0yDaZB4g8dOf5AFBfIeDNMGk1gteymu4fNO7kcj49UorMTFjpCIZ3v1xzsfNSEbOls5yskeAEFDSzWjrjQxeIYSl2shYVlUl3gJ0JghyAfmRJ+50YwItdeMnEl4+/ucvbEMDMxL9HGqB+ml2fX9xvAwgKG130oRzaIZIPCYWVd3LMqyDFSLy2HwASUFWbiGe4bffXAx9S/snDz/8HNAnHLpNViLIAAAAASUVORK5CYII="/> Bibliotecas utilizadas
+## 📚 Bibliotecas utilizadas
 
 <a href = "https://swiperjs.com/">
 <img src="https://img.shields.io/badge/Swiper%20-323330?style=for-the-badge&logo=swiper&logoColor=blue" /></a>
 
-#
-
-## <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAdlJREFUSEuVVe1RBCEMDc5suC6uBLUTS9EKvJKuFO3g7MLlZsQhJJBAmNX9dQe75H0kjwDtCQCQ+Z/+3d8ov2hnte2sl6WDx341weAFfz0QIIblo0vpngNk2BANmJQS0cWIZXt+mKop4FEpBYp0yAUEaSswrBeYpWKtGSB0arwxcE07I10VYAb6nO5lVaUZK5X3/fslhId3AHgaWS38veWc3+IpXke5TAGpnFK6AcDZHL5uLHntAxGflaVVIm2yvCn6LpyzjJuZGTZtuDEZANqhB+Pgb8+rtbsUAzGzwrPNHRFD6wrVISntXoPS15XN0EXkQQBoxZhmxC2Y6eX6o5TSylrauYuoQB0ugUcMpokNMDIwBUYPmizaD5YLcWMgtpU0A5LFHTonKgoDPSwd2X8LyKCx7syK4lJL5GlbcN1TymK+TmLKLjXhJMTfet9OhgY0Rn0F5aWp44GWa5XtpjVVg6iw65+WqAgA52UKt1mWy4e4fCIiZdc4dhMoDrsLADxO8VvQzbn09ZPz6ynGq8pOGatpcE082YulnzzeBzqVTVx3ozRvIxcBXt5ozUyXmb4PbAEpbC8czcDedJ221c81ecz0VRdNGTrJAXxl6pxx8vggwacrRb//CwKKIDLx0uGuAAAAAElFTkSuQmCC"/> Tecnologias
+## ⚙ Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width = 40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = 40/>
 
-#
-
-## <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAuNJREFUSEu1VUty2kAQfT1UseYI5AThCPHGwtmEnMB87CojFrZPgDhBcFUMdgUBPgFkkyCyCDlBfINwBHuZpDyd6tFvhGQ7WWQWSDWM+nW/97qH8J8XEQD+a5B/Oy1h5YvwN0aJ3s2jYP+xXNKjdoAYIPrKPkTgCCCPcvJpVi0pvGTSNQZvWZe+XR+0tkVMhBXY6xkW3JV/BkIf4ApB0kiWN3I6g91gFkA2U1PBDrYbTDwC9c0+0wWT3hCrVyB9KmQQcH7pdIbpZ2YvXs8TfvZ1Wvn5izdEGI72O/NYv+7KbyhgIcBaqxcpXTFApGjKe4GUBdSlRiC4K38I4lMGvx07R8vYOBkNiug/+TyrlkoPb5ipEmasPo72W7dZ8xG6wYcGMS1AGIydjhc7MOwD25MWihv4HsB922zytwaGY6dzbtfZC6ZzBh9KBVfO0TLUL0OR3Q4EN/DnAB9Gx27EjgRVZehDo36cKQB3PWmCaQbgXmuqXR+0t0kFuUYD0AtmcxMojN5KBAXBXU9rYD0sl1VjuNe6c9d+EwwJXuCinUaTQ73AP2PgHUk24ObYOV4a9/zmBYHOY/7lbBpcSlI3I6fdzGqzMypEUKX0dwAVpfXe+9fHGxGoF0w8hjSXGSlzELYAagQ0mAEidXPptEzwBCCeGPZ4ME4ALaSJRvW2dKyZUfLorqbGhhFIWjtjMKp3vNzsssASM4SuQT/x8o5A7nom/DdMloy7B1bLq4OWVJNPPQ8gAk6a0CIYXYzrbdGiyAOR3cJJ9Nyoz4yK7udplUj/EE7SKsJA3S9+E5pPy+XSnrjH7oGn3nP3gbvyPZmWcUMpVhuGoaUpvAA0GDkdL2yi4goyfVt0URiQ2DVpevfE7F3Wj4aZC6og/d2xmT0SwZ8IXeqhRiC5VG5Zl24TQZ8cfIlEoQNzZwum9mMWtE2f0mV5O7J44pXia7KwwJ0LO3ut29azRH5MNHs/ereTLKDAFv8P6a5uLO2KpFEAAAAASUVORK5CYII="/> Links
+## 🔗 Links
 
 <a href = "https://t.me/Carloscunha611" target = '_blank'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' target = '_blank' > <a href = "https://www.linkedin.com/in/carloscunha611/" target = '_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
