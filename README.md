@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-> Página desenvolvida no evento online da rocketseat.
+> Projeto desenvolvida no evento online da rocketseat - NLW#6 Mission Origin.
 
 ## 💻 Funcionalidades
 
