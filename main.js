@@ -59,14 +59,17 @@ const scrollReveal = ScrollReveal({
     reset:true
 })
 
-scrollReveal.reveal(`
-#home .image, #home .text,
-#about .image, #about .text,
-#services header, #services .card,
-#testimonials header, #testimonials .testimonials
-#contact .text, #contact .links,
-footer .brand, footer .social
-`, {interval: 100} )
+scrollReveal.reveal(
+  `
+  #home .image, #home .text,
+  #about .image, #about .text,
+  #services header, #services .card,
+  #testimonials header, #testimonials .testimonials,
+  #contact .text, #contact .links,
+  footer .brand, footer .social
+`,
+  {interval: 100}
+)
 
 /* Botão voltar pra cima */
 
@@ -94,14 +97,16 @@ function activateMenuAtCurrentSection(){
         const checkpointStart = checkpoint >= sectionTop
         const checkpointEnd = checkpoint <= sectionTop + sectionHeight
 
+        const menuLink = document.querySelector('nav ul li a[href*=' + sectionId + ']')
+
+        if (!menuLink) {
+            continue
+        }
+
         if(checkpointStart && checkpointEnd){
-            document
-            .querySelector('nav ul li a[href*=' + sectionId + ']')
-            .classList.add('active')
+            menuLink.classList.add('active')
         } else {
-            document
-            .querySelector('nav ul li a[href*=' + sectionId + ']')
-            .classList.remove('active')
+            menuLink.classList.remove('active')
         }
     }
 }
@@ -114,5 +119,8 @@ window.addEventListener('scroll', function() {
     activateMenuAtCurrentSection()
 })
 
-/* menu ativo conforme a pag */
+changeHeaderWhenScroll()
+backToTop()
+activateMenuAtCurrentSection()
 
+/* menu ativo conforme a pag */
